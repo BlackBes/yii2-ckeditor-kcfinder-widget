@@ -25,6 +25,18 @@ or add
 "2amigos/yii2-ckeditor-widget" : "2.0"
 ```
 
+also you need to make minimum stability to 'dev':
+
+```json
+"minimum-stability": "dev"
+```
+
+and add KCFinder to dependency 
+
+```json
+"sunhater/kcfinder": "*"
+```
+
 to the require section of your application's `composer.json` file.
 
 Skins & Plugins
