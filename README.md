@@ -22,7 +22,7 @@ composer require blackbes/yii2-ckeditor-kcfinder-widget
 or add
 
 ```json
-"blackbes/yii2-ckeditor-kcfinder-widget" : "1.9"
+"blackbes/yii2-ckeditor-kcfinder-widget" : "~1.9"
 ```
 
 also you need to make minimum stability to 'dev':

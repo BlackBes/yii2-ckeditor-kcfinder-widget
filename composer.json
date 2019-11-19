@@ -3,13 +3,14 @@
     "description": "CKEditor widget for Yii2 with support of KCfinder. Fork 2amigos",
     "type": "yii2-extension",
     "keywords": [
-        "2amigos",
+        "blackbes",
         "yii",
         "yii2",
         "yii 2",
         "extension",
         "widget",
-        "ckeditor"
+        "ckeditor",
+        "kcfinder"
     ],
     "homepage": "http://yiiwheels.com/extension/ckeditor-widget",
     "license": "BSD-3-Clause",
