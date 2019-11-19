@@ -17,12 +17,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require 2amigos/yii2-ckeditor-widget
+composer require blackbes/yii2-ckeditor-kcfinder-widget
 ```
 or add
 
 ```json
-"2amigos/yii2-ckeditor-widget" : "2.0"
+"blackbes/yii2-ckeditor-kcfinder-widget" : "1.9"
 ```
 
 also you need to make minimum stability to 'dev':
