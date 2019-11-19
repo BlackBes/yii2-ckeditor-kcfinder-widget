@@ -1,0 +1,52 @@
+{
+    "name": "blackbes/yii2-ckeditor-kcfinder-widget",
+    "description": "CKEditor widget for Yii2 with support of KCfinder. Fork 2amigos",
+    "type": "yii2-extension",
+    "keywords": [
+        "2amigos",
+        "yii",
+        "yii2",
+        "yii 2",
+        "extension",
+        "widget",
+        "ckeditor"
+    ],
+    "homepage": "http://yiiwheels.com/extension/ckeditor-widget",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Glory Light Studio",
+            "email": "vipua2222@gmail.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/blackbes/yii2-ckeditor-kcfinder-widget/issues",
+        "source": "https://github.com/blackbes/yii2-ckeditor-kcfinder-widget"
+    },
+    "require": {
+        "yiisoft/yii2": "^2.0",
+        "ckeditor/ckeditor": "~4.7.0+full"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dosamigos\\ckeditor\\": "src"
+        }
+    },
+    "config": {
+        "fxp-asset": {
+            "installer-paths": {
+                "npm-asset-library": "vendor/npm"
+            }
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
